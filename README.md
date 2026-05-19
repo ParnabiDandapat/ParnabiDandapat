@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Parnabi Dandapat
 
-<!--
-**ParnabiDandapat/ParnabiDandapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning Web Development  
+🌱 Exploring Data Structures and Programming  
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Data Structures
+- Digital Electronics
+- C Programming
+- C++
+- JAVA
+- Python
+
+
+## 🎯 Goals
+
+- Build Web Projects
+- Improve Problem Solving Skills
+- Prepare for Internships
+- Strengthen Development Skills
+
+## 📂 Projects
+
+- Resume Project
+- Registration Form
+- Semantic HTML Practice
+
+## 🛠 Tech Stack
+
+HTML | CSS | JavaScript | C | DSA
+
+## 📈 Current Focus
+
+- Frontend Development
+- Project Building
+- Learning New Technologies
+
+---MORE PROJECTS COMING SOON
+
+⭐ Learning, building, and growing every day
+
+
+## 🌐 Connect With Me
+
+GitHub: https://github.com/ParnabiDandapat
+
+LinkedIn: https://www.linkedin.com/in/parnabi-dandapat-21389232b/
