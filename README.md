@@ -32,7 +32,7 @@
 
 ## 🛠 Tech Stack
 
-HTML | CSS | JavaScript | C | DSA
+HTML | CSS | JavaScript | C | C++ | JAVA | Python | DSA
 
 ## 📈 Current Focus
 
@@ -47,6 +47,7 @@ HTML | CSS | JavaScript | C | DSA
 
 ## 🌐 Connect With Me
 
-GitHub: https://github.com/ParnabiDandapat
 
-LinkedIn: https://www.linkedin.com/in/parnabi-dandapat-21389232b/
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ParnabiDandapat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parnabi-dandapat-21389232b/)
