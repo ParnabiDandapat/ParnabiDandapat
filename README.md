@@ -1,28 +1,22 @@
-# Hi 👋 I'm Parnabi Dandapat
+# 👋 Hi, I'm Parnabi Dandapat
 
 🎓 CSE Student  
 💻 Learning Web Development  
-🌱 Exploring Data Structures and Programming  
+🌱 Exploring Programming and Data Structures  
 
-## 🚀 Currently Learning
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Data Structures
-- Digital Electronics
-- C Programming
-- C++
-- JAVA
-- Python
+## 🚀 Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-## 🎯 Goals
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-- Build Web Projects
-- Improve Problem Solving Skills
-- Prepare for Internships
-- Strengthen Development Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
+---
 
 ## 📂 Projects
 
@@ -30,24 +24,30 @@
 - Registration Form
 - Semantic HTML Practice
 
-## 🛠 Tech Stack
+🚀 More projects coming soon...
 
-HTML | CSS | JavaScript | C | C++ | JAVA | Python | DSA
+---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-- Frontend Development
-- Project Building
-- Learning New Technologies
+![Stats](https://github-readme-stats.vercel.app/api?username=ParnabiDandapat&show_icons=true)
 
----MORE PROJECTS COMING SOON
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnabiDandapat&layout=compact)
 
-⭐ Learning, building, and growing every day
+---
 
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com?user=ParnabiDandapat)
+
+---
 
 ## 🌐 Connect With Me
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ParnabiDandapat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parnabi-dandapat-21389232b/)
+
+---
+
+⭐ Learning, building and growing every day
