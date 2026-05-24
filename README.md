@@ -38,7 +38,7 @@
 
 ## 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=ParnabiDandapat)
+![Streak](https://streak-stats.demolab.com?user=ParnabiDandapat&cache_seconds=1)
 
 ---
 
