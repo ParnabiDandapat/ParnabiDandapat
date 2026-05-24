@@ -38,7 +38,7 @@
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ParnabiDandapat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ParnabiDandapat&theme=tokyonight&cache_seconds=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
